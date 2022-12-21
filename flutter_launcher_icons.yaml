@@ -1,0 +1,16 @@
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/ic_logo.png"
+  image_path_ios: "assets/images/ic_logo_ios.png"
+  remove_alpha_ios: true
+  adaptive_icon_background: "#000000"
+  adaptive_icon_foreground: "assets/images/ic_logo_android.png"
+
+#  ic_logo is a transparent logo
+#  ic_logo_ios is a logo with white background and 50 padding
+#  ic_logo_android is a logo with white background and 200 padding
+#  Run in terminal
+#  flutter pub run flutter_launcher_icons:main
